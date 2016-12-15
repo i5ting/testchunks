@@ -1,0 +1,23 @@
+{
+  "name": "testchunks",
+  "version": "1.0.0",
+  "description": "testchunks with app(express or koa)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/i5ting/testchunks.git"
+  },
+  "keywords": [],
+  "author": "i5ting",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/i5ting/testchunks/issues"
+  },
+  "homepage": "https://github.com/i5ting/testchunks#readme",
+  "dependencies": {
+    "request": "^2.79.0"
+  }
+}
