@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/i5ting/testchunks#readme",
   "dependencies": {
+    "debug": "^2.4.4",
     "request": "^2.79.0"
   }
 }
