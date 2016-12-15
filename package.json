@@ -1,6 +1,6 @@
 {
   "name": "testchunks",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "testchunks with app(express or koa)",
   "main": "index.js",
   "scripts": {
