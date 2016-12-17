@@ -32,7 +32,7 @@ test.cb('GET /', t => {
 if Express
 
 ```
-  testChunks(app.callback(), '/', function(chunks, error, response, body){
+  testChunks(app, '/', function(chunks, error, response, body){
     console.log(chunks)
     t.end()
   })
